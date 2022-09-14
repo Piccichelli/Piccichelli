@@ -1,9 +1,9 @@
 ### Oii! Eu sou o Pedro 😊
 
+- 👨🏼‍💻 Cursando o oitavo período de Engenharia da Computação
 - 🔭 Atualmente sou monitor na faculdade Inatel
-- 🌱 Estou proucurando aperfeiçoar meu front-end
-- 👯 Proucuro ajudar no desenvolvimento de software
-- 📫 Para entrar em contato comigo é só chamar no insta: @PPiccichelli
+- 🌱 Estou proucurando aperfeiçoar meu desenvolvimento dr software como todo
+- 📫 Para entrar em contato comigo é só chamar no WhatsApp: (24)99908-0812
 
 <div>
   <a href="https://github.com/Piccichelli">
