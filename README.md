@@ -2,7 +2,7 @@
 
 - 👨🏼‍💻 Cursando o oitavo período de Engenharia da Computação
 - 🔭 Atualmente sou monitor na faculdade Inatel
-- 🌱 Estou proucurando aperfeiçoar meu desenvolvimento dr software como todo
+- 🌱 Estou proucurando aperfeiçoar meu desenvolvimento de software como todo
 - 📫 Para entrar em contato comigo é só chamar no WhatsApp: (24)99908-0812
 
 <div>
