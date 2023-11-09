@@ -1,7 +1,7 @@
 ### Oii! Eu sou o Pedro 😊
 
-- 👨🏼‍💻 Cursando o oitavo período de Engenharia da Computação
-- 🔭 Atualmente sou monitor na faculdade Inatel
+- 👨🏼‍💻 Cursando o nono período de Engenharia da Computação
+- 🔭 Atualmente sou estagiário na [SmartAgri](https://www.linkedin.com/company/smartagri-br/about/)
 - 🌱 Estou proucurando aperfeiçoar meu desenvolvimento de software como todo
 - 📫 Para entrar em contato comigo é só chamar no WhatsApp: (24)99908-0812
 
