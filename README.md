@@ -1,9 +1,9 @@
 ### Oii! Eu sou o Pedro 😊
 
-- 👨🏼‍💻 Cursando o nono período de Engenharia da Computação
+- 👨🏼‍💻 Graduado em Engenharia da Computação - INATEL
 - 🔭 Atualmente sou estagiário na [Levty](https://www.linkedin.com/company/levty)
 - 🌱 Estou proucurando aperfeiçoar meu desenvolvimento de software como todo
-- 📫 Para entrar em contato comigo é só chamar no WhatsApp: (24)99908-0812
+- 📫 Para entrar em contato comigo é só chamar no Instagram: @ppiccichelli
 
 <div>
   <a href="https://github.com/Piccichelli">
