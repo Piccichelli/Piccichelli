@@ -1,7 +1,7 @@
 ### Oii! Eu sou o Pedro 😊
 
 - 👨🏼‍💻 Graduado em Engenharia da Computação - INATEL
-- 🔭 Atualmente sou estagiário na [Levty](https://www.linkedin.com/company/levty)
+- 🔭 Atualmente sou Software Engineer na [Levty](https://www.linkedin.com/company/levty)
 - 🌱 Estou proucurando aperfeiçoar meu desenvolvimento de software como todo
 - 📫 Para entrar em contato comigo é só chamar no Instagram: @ppiccichelli
 
